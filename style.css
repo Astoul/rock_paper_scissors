@@ -1,0 +1,19 @@
+
+body {
+    margin: auto;
+    background-color: #0e0d0de5;
+}
+
+
+header {
+    background-color: rgba(207, 202, 198, 0.986);
+    text-align: center;
+    padding: 10px;
+}
+
+.score-board{
+border-style: solid;
+text-align: center;
+margin-top: 15px;
+padding: 10px;
+}
